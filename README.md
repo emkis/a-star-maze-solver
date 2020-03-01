@@ -15,8 +15,8 @@ this project was developed with the following technologies:
 - Vanilla JS
 - [p5.js (for handling canvas)](https://p5js.org/)
 
-# :electric_plug: how to use
-just clone this repo, or download all in a zip and open the **src/index.html** file, thats all
+# :electric_plug: how to use/see
+just [click here](http://emkis.profissional.ws/a-star-maze-solver) or clone this repo and open the **src/index.html** file, thats all
 **easy peasy lemon squeezy 🍋**
 
 # :information_source: note
